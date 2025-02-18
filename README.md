@@ -1,2 +1,2 @@
-#Keylock
-This is a Password Manager and Generator using Cryptography web application that is being built using technologies like HTML, CSS, Bootstrap, JavaScript, Java SE, Jakarta Servlet, JSP, MySQL DB and Apache Tomcat Server.
+# Keylock
+ A password manager web application made using Java, Spring Boot, HTML, CSS, Tailwind, Javascript, Thymeleaf, PostgreSQL for managing credentials efficently by encrypting it and also can be used to generate random strong password of our desired length. It is user friendly and easy to use.
